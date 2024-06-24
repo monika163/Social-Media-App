@@ -2,7 +2,7 @@
 
 This project is a full-stack social media web application 🌐 that has been developed using the MERN stack 🖥️ and Rest API 🚀, In this social media platform where you can share posts, like/unlike posts, Follow/Unfollow users and more.
 
-Deployed link : https://social-media-app-rliz.onrender.com
+Deployed link : https://social-media-app-cbw8.onrender.com
 
 ## Notes App with MongoDB, Express, React & Nodejs (MERN).
 
@@ -112,49 +112,67 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 
 #### Login
 
-If a user has an existing account on Notes App, they can simpy Login using their login details.
-
-![1  login](https://github.com/monika163/Notes-App/assets/61625011/8a88a380-6110-40b0-9e34-e776c41b52f7)
+![2  login](https://github.com/monika163/Social-Media-App/assets/61625011/a547effb-5bd8-43e6-a4d4-5f6528902edb)
 
 ---
 
 #### Sign Up
 
-If a user dose not have an existing account on Notes App, they can create one, simply by clicking on the Sign Up button, and filling in the required details.
-
-![2  register](https://github.com/monika163/Notes-App/assets/61625011/8efd16a3-be0a-4392-9db5-94b5e2996ebe)
-
-A user has to either Login or Sign Up before they can use Notes App.
+![1  register](https://github.com/monika163/Social-Media-App/assets/61625011/ef683b40-3f2c-4a88-97af-c2787ae9243b)
 
 ---
 
 #### Home Page
 
-Once the user has signed in, they will find themselves on this Home Screen, which currently has no notes.
-
-![3  add notes](https://github.com/monika163/Notes-App/assets/61625011/26f38cf1-ee33-4f51-be5b-3faaa554be26)
-
-They can simply add a new note by filling in the necessary details like the Note Title, Description, and Doe Dates. Once they do this, they'll be able to add that note simply by clicking on the Add Note button.
-
-![4   adding notes](https://github.com/monika163/Notes-App/assets/61625011/28b301e7-718d-436b-bc69-1688da42765b)
-
-Once they click on the Add Note button, there note will be added on the Home Screen, which they can view after login in, and no one else can see it.
-
-![5  added notes](https://github.com/monika163/Notes-App/assets/61625011/3223aded-38f9-4f33-b543-ee606eb914fe)
+![3  home page](https://github.com/monika163/Social-Media-App/assets/61625011/76e8f702-b487-45fa-8611-ef0ebd3e4283)
 
 ---
 
-#### Updating/Deleting a Note
+#### Post
 
-If the user wants to update or delete a note, they can do so by simply clicking on the Delete (trashcan) icon, or the Update (pen/note) icon next to the particular note.
+![4  post](https://github.com/monika163/Social-Media-App/assets/61625011/991f5d71-7e90-4307-88cf-0e6479b6844b)
 
-If they click on the update icon, a modal will pop up where they can update whatever they want, and can save the changes simply by clicking on the Update Note button once they're happy.
+---
 
-![6  updating and deleting a notes](https://github.com/monika163/Notes-App/assets/61625011/aea55ab4-61cb-4b9f-887e-bc1471cf2f22)
+#### Post Like, Comment
 
-Once the user is done using the application, they can simply log out using the Logout button on the top right corner, so that no one else will be able to see their notes without logging in.
+![5  post like comment](https://github.com/monika163/Social-Media-App/assets/61625011/2c8fa9f9-4d62-4fb9-a911-da075e0d3b95)
 
-Bycrypt.js and JWT Authentication have been used to enhance the overall security of the application.
+---
+
+#### Profile
+
+![6  profile](https://github.com/monika163/Social-Media-App/assets/61625011/c895b9ff-3398-4290-9e63-ae9709cea67f)
+
+---
+
+#### Update Profile
+
+![7  update profile](https://github.com/monika163/Social-Media-App/assets/61625011/910f44d4-2a12-4dca-ac1e-06572694ed31)
+
+---
+
+#### 8. Search for Chats and Nothification
+
+![8  search for chats and nothification](https://github.com/monika163/Social-Media-App/assets/61625011/4b43b0a7-99ca-4a1b-a625-0519b7d0a75f)
+
+---
+
+#### Chat
+
+![9  chat](https://github.com/monika163/Social-Media-App/assets/61625011/456c9304-70c7-4e62-b69e-8ef00266438f)
+
+---
+
+#### Profile Follow
+
+![10  profile - follow ](https://github.com/monika163/Social-Media-App/assets/61625011/3409263c-5518-47d6-ad01-a90b5b74672a)
+
+---
+
+#### Profile UnFollow
+
+![11  unfollow](https://github.com/monika163/Social-Media-App/assets/61625011/4a5a7448-856c-4588-b498-06548e80187a)
 
 ---
 
